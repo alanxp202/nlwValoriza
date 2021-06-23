@@ -1,0 +1,11 @@
+{
+  "name": "nlwValoriza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alanxp202/nlwValoriza.git",
+  "author": "Alan Pinho",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
